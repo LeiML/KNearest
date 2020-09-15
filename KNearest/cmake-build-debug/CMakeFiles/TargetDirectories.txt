@@ -1,0 +1,3 @@
+E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/KNearest.dir
+E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

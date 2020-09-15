@@ -1,0 +1,4 @@
+"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" E:\BasicProgram\c++\KNearest
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/BasicProgram/c++/KNearest/cmake-build-debug

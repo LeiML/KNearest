@@ -1,0 +1,4 @@
+ToolSet: 16.0 (local)@D:\VisualStudio\2019\Enterprise
+Options: msvc.arch=x64
+
+Options:

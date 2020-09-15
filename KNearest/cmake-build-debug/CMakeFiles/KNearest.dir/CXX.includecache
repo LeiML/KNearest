@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ProgramFiles/Matrix/include/Matrix.hpp
+iostream
+-
+cmath
+-
+vector
+-
+random
+-
+algorithm
+-
+
+E:/BasicProgram/c++/KNearest/KNearest.hpp
+Matrix.hpp
+-
+vector
+-
+fstream
+-
+filesystem
+-
+cassert
+-
+string
+-
+regex
+-
+map
+-
+set
+-
+
+E:/BasicProgram/c++/KNearest/main.cpp
+KNearest.hpp
+E:/BasicProgram/c++/KNearest/KNearest.hpp
+

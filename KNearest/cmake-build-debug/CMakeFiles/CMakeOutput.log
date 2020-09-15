@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/VisualStudio/2019/Enterprise/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29111 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.27.29111.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/VisualStudio/2019/Enterprise/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29111 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.27.29111.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_4a559\fast && 	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_4a559.dir\build.make /nologo -L                  CMakeFiles\cmTC_4a559.dir\build
+Building C object CMakeFiles/cmTC_4a559.dir/testCCompiler.c.obj
+	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\LeiLei\AppData\Local\Temp\nm15BD.tmp
+testCCompiler.c
+Linking C executable cmTC_4a559.exe
+	"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4a559.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_4a559.dir\objects1.rsp @C:\Users\LeiLei\AppData\Local\Temp\nm17C2.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_15e8b\fast && 	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_15e8b.dir\build.make /nologo -L                  CMakeFiles\cmTC_15e8b.dir\build
+Building C object CMakeFiles/cmTC_15e8b.dir/CMakeCCompilerABI.c.obj
+	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\LeiLei\AppData\Local\Temp\nm1D10.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_15e8b.exe
+	"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_15e8b.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_15e8b.dir\objects1.rsp @C:\Users\LeiLei\AppData\Local\Temp\nm1D8E.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_1fd48\fast && 	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_1fd48.dir\build.make /nologo -L                  CMakeFiles\cmTC_1fd48.dir\build
+Building CXX object CMakeFiles/cmTC_1fd48.dir/testCXXCompiler.cxx.obj
+	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\LeiLei\AppData\Local\Temp\nm20AA.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_1fd48.exe
+	"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1fd48.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_1fd48.dir\objects1.rsp @C:\Users\LeiLei\AppData\Local\Temp\nm2148.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/BasicProgram/c++/KNearest/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_64ae2\fast && 	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\HostX64\x64\nmake.exe  -f CMakeFiles\cmTC_64ae2.dir\build.make /nologo -L                  CMakeFiles\cmTC_64ae2.dir\build
+Building CXX object CMakeFiles/cmTC_64ae2.dir/CMakeCXXCompilerABI.cpp.obj
+	D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe @C:\Users\LeiLei\AppData\Local\Temp\nm2415.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_64ae2.exe
+	"D:\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_64ae2.dir --rc="D:\Windows Kits\10\bin\10.0.18362.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.18362.0\x64\mt.exe" --manifests  -- D:\VisualStudio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\link.exe /nologo @CMakeFiles\cmTC_64ae2.dir\objects1.rsp @C:\Users\LeiLei\AppData\Local\Temp\nm2493.tmp
+
+
+
